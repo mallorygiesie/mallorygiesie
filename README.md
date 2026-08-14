@@ -2,6 +2,6 @@
 - 📍 Santa Barbara, CA
 - 😄 Pronouns: she/her
 - 📫 How to reach me: mallorygiesie@bren.ucsb.edu
-- 👩‍💻 Personal Website: [mallorygiesie.github.io](https://mallorygiesie.github.io)
+- 👩‍💻 Personal Website: [https://mallorygiesie.azurewebsites.net/](https://mallorygiesie.azurewebsites.net/)
 
-🌱 Environmental Data Scientist🌱 
+AI Solutions Engineer
